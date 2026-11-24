@@ -1,0 +1,26 @@
+# Sonho de Menina — primeira versão da loja virtual
+
+## Como abrir
+1. Extraia o arquivo ZIP.
+2. Abra a pasta `sonho-de-menina`.
+3. Dê dois cliques em `index.html` para visualizar no navegador.
+
+Para publicar, envie todos os arquivos e a pasta `assets` para uma hospedagem de site estático (por exemplo, GitHub Pages, Netlify ou hospedagem tradicional).
+
+## O que já funciona
+- Layout responsivo para celular e computador.
+- Vitrine com as 8 fotos enviadas.
+- Filtros por tipo de produto e busca.
+- Sacola com quantidade e remoção de itens.
+- Formulário de pedido.
+- Montagem automática da mensagem e abertura do WhatsApp comercial: +55 92 99284-5912.
+
+## Antes de colocar no ar
+- Confirmar preços, tamanhos, disponibilidade e composição de cada produto.
+- Confirmar regras e valores de entrega para Manaus e demais cidades.
+- Revisar nomes e descrições dos produtos.
+- Adicionar política de privacidade, termos de compra e informações comerciais.
+- Otimizar imagens e configurar domínio/HTTPS.
+
+## Limitação desta primeira versão
+Esta é uma vitrine estática em HTML, CSS e JavaScript. Os pedidos são encaminhados ao WhatsApp; não existe pagamento online, banco de dados, estoque compartilhado ou painel administrativo conectado. Alterações feitas diretamente no código precisam ser publicadas novamente. Para gestão real de produtos e pedidos por vários dispositivos, será necessária uma etapa posterior com backend ou serviço de e-commerce.
